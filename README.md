@@ -1,5 +1,10 @@
 # States And State Capitals Trivia
 
+To run this application simply go over to the test file > java > statesAndCapitals > StatesAndCapitalsTest and run the last(test) file.
+Each completed problem will have a value showing True, non-resolved problems will have a value showing False.
+
+## Resources: ChatGPT, Aaron Clark, Alex Chao
+
 ## Overview
 Today you'll be using Java Streams, Collections, and lambda functions to figure out some state trivia. Unlike your other labs, you won't be building anything today, or have to code any tests. All the tests are already set up for you! You just have to make them pass.
 
